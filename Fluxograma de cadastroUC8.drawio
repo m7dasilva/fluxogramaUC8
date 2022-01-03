@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-03T14:05:20.140Z" agent="5.0 (Windows)" etag="HXnYrsxWgCbf_4KMXH-Y" version="16.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-03T14:07:53.891Z" agent="5.0 (Windows)" etag="GYiBu5d3z6EGw--QAnWI" version="16.1.2" type="github">
   <diagram id="cOWR1loPYyiLhHXmrVUj" name="Page-1">
     <mxGraphModel dx="862" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -54,7 +54,7 @@
         <mxCell id="qGws-VLx6zN_v8iVl-oM-44" value="&lt;div&gt;Data do Evento&lt;/div&gt;&lt;div&gt;posterior a &lt;br&gt;&lt;/div&gt;&lt;div&gt;data atual?&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="325" y="440" width="130" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="qGws-VLx6zN_v8iVl-oM-46" value="" style="shape=display;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="qGws-VLx6zN_v8iVl-oM-46" value="&lt;div&gt;Alertar que a data está &lt;br&gt;&lt;/div&gt;&lt;div&gt;inválida&lt;br&gt;&lt;/div&gt;" style="shape=display;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="460" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qGws-VLx6zN_v8iVl-oM-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="qGws-VLx6zN_v8iVl-oM-47" target="qGws-VLx6zN_v8iVl-oM-48" edge="1">
